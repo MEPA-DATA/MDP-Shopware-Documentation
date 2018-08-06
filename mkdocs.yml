@@ -1,0 +1,9 @@
+site_name: MDP Shopware
+theme: readthedocs
+nav:
+- 'Benutzeranleitung':
+    - 'Allgemein': 'Benutzeranleitung/Allgemein'
+    - 'Artikel': 'Benutzeranleitung/Artikel'
+    - 'Geschäftspartner': 'Benutzeranleitung/Geschäftspartner'
+    - 'Bestellungen': 'Benutzeranleitung/Bestellungen'
+    - 'MDP HTML Editor': 'Benutzeranleitung/MDP HTML Editor'
